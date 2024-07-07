@@ -15,11 +15,11 @@ const alive = async (m, Matrix) => {
   const uptimeMessage = `*🗿ＡＮＤＥＸ-ＭＤ ＩＳ ＡＬＩＶＥ🤍🫀*
 _________________________________________
 
-*`📆 Day:` ${days} Day*
-*`🕰️Hour:` ${hours} Hour*
-*`⏳ Minute:` ${minutes} Minute*
-*`⏲️ Second:` ${seconds} Second*
-*`👨‍💻Developer:` ANDEX MD*
+*📆 Day: ${days} Day*
+*🕰️Hour: ${hours} Hour*
+*⏳ Minute: ${minutes} Minute*
+*⏲️ Second: ${seconds} Second*
+*👨‍💻Developer: ANDEX MD*
 _________________________________________
 `;
 
