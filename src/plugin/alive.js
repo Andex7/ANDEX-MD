@@ -52,7 +52,7 @@ _________________________________________
             text: uptimeMessage
           }),
           footer: proto.Message.InteractiveMessage.Footer.create({
-            text: "© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ"
+            text: "© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ᴅᴇꜱɪɴᴅᴜ ᴏꜰᴄ"
           }),
           header: proto.Message.InteractiveMessage.Header.create({
             title: "",
@@ -69,7 +69,7 @@ _________________________________________
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "MASTER-MD-V3",
+                  newsletterName: "ANDEX-MD",
                   serverMessageId: 143
                 }
               }
