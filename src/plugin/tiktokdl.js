@@ -76,10 +76,10 @@ const tiktokCommand = async (m, Matrix) => {
             },
             interactiveMessage: proto.Message.InteractiveMessage.create({
               body: proto.Message.InteractiveMessage.Body.create({
-                text: `👨‍💻ＭＡＳＴＥＲ-ＭＤ-Ｖ3👨‍💻\n\n⬇️𝚃𝙸𝙺𝚃𝙾𝙺 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁⬇️\n🔰Title: ${currentResult.data.title}\n🔰Author: ${currentResult.data.author.nickname}\n🔰Views: ${currentResult.data.view}\n🔰Duration: ${currentResult.data.duration}s\n`
+                text: `🗿ＡＮＤＥＸ-ＭＤ🤍🫀\n\n⬇️𝚃𝙸𝙺𝚃𝙾𝙺 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁⬇️\n🔰Title: ${currentResult.data.title}\n🔰Author: ${currentResult.data.author.nickname}\n🔰Views: ${currentResult.data.view}\n🔰Duration: ${currentResult.data.duration}s\n`
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ"
+                text: "© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ᴅᴇꜱɪɴᴅᴜ ᴏꜰᴄ"
               }),
               header: proto.Message.InteractiveMessage.Header.create({
                  ...(await prepareWAMessageMedia({ image: { url: `https://telegra.ph/file/83ae294a17351afb2773d.jpg` } }, { upload: Matrix.waUploadToServer })),
