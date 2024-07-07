@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
 <a href="https://github.com/MrMasterOfc">
-    <img src="https://telegra.ph/file/83ae294a17351afb2773d.jpg" width="900px">
+    <img src="https://telegra.ph/file/c8be6c96d4c1ac33b4681.jpg" width="900px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
