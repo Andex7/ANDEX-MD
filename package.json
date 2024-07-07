@@ -1,7 +1,7 @@
 {
-  "name": "MASTER-MD",
+  "name": "ANDEX-MD",
   "version": "10.8.1",
-  "description": "Master md whatsApp user bot created by mr sahan ofc",
+  "description": "Andex md whatsApp user bot created by mr desindu ofc",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -9,8 +9,8 @@
     "stop": "pm2 stop MASTER-MD",
     "restart": "pm2 restart MASTER-MD"
   },
-  "keywords": ["master-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Sahan_Pedaa",
+  "keywords": ["andex-md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "Desindu_Boza",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
