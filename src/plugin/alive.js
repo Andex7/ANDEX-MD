@@ -12,14 +12,14 @@ const alive = async (m, Matrix) => {
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).toLowerCase() : '';
     if (['alive', 'uptime', 'runtime'].includes(cmd)) {
 
-  const uptimeMessage = `*👨‍💻ＭＡＳＴＥＲ-ＭＤ-Ｖ3 ＩＳ ＡＬＩＶＥ👨‍💻*
+  const uptimeMessage = `*🗿ＡＮＤＥＸ-ＭＤ ＩＳ ＡＬＩＶＥ🤍🫀*
 _________________________________________
 
-*📆 Day: ${days} Day*
-*🕰️Hour: ${hours} Hour*
-*⏳ Minute: ${minutes} Minute*
-*⏲️ Second: ${seconds} Second*
-*👨‍💻Developer: MASTER MIND*
+*`📆 Day:` ${days} Day*
+*`🕰️Hour:` ${hours} Hour*
+*`⏳ Minute:` ${minutes} Minute*
+*`⏲️ Second:` ${seconds} Second*
+*`👨‍💻Developer:` ANDEX MD*
 _________________________________________
 `;
 
