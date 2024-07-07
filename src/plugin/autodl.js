@@ -22,7 +22,7 @@ const downloadAndSendMedia = async (m, Matrix) => {
 
       if (result.status) {
         const mediaData = result.data;
-        const caption = `> © 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ`;
+        const caption = `> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ᴅᴇꜱɪɴᴅᴜ ᴏꜰᴄ`;
 
         if (mediaData.low) {
           const mediaUrl = mediaData.low;
