@@ -1,5 +1,5 @@
 <div align="center">
-    ✨<b>👨‍💻ＭＡＳＴＥＲ－ＭＤ－Ｖ３👨‍💻</b>✨</b> 
+    ✨<b>🗿ＡＮＤＥＸ-ＭＤ🤍🫀</b>✨</b> 
 
 
 <div align="left">
