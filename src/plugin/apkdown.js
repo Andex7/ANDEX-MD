@@ -70,7 +70,7 @@ const searchAPK = async (m, Matrix) => {
                 text: `🗿ＡＮＤＥＸ-ＭＤ🤍🫀\n⬇️𝙰𝙿𝙺 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁⬇️\n🔍 Search and download your favorite APKs easily.\n\n📌 Simply select an APK from the list below to get started.\n\n`
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ"
+                text: "© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ᴅᴇꜱɪɴᴅᴜ ᴏꜰᴄ"
               }),
               header: proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia({ image: { url: `https://telegra.ph/file/c8be6c96d4c1ac33b4681.jpg` } }, { upload: Matrix.waUploadToServer })),
